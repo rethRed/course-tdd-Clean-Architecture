@@ -15,6 +15,9 @@
     "typescript": "^4.8.4"
   },
   "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@types/faker": "^6.6.9",
+    "faker": "^6.6.6",
     "vitest": "^0.24.5"
   }
 }
